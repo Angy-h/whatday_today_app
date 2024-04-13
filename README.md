@@ -119,3 +119,7 @@ graduation work for RUNTEQ
 - 検索機能（日付、キーワード）：Stimulus Autocomplete（Rails7 ）
 - リマインド機能：ネットで調べる
 - AI の Chat 機能：ChatGPT を調べる
+
+■ 画面遷移図
+Figmaで作成した画面遷移図のリンクを下記に追記します。
+https://www.figma.com/file/ZIEVaD2hnfnHlezbrE01a8/%E5%8D%92%E6%A5%AD%E5%88%B6%E4%BD%9C%EF%BC%9A%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3?type=design&node-id=0-1&mode=design&t=gLOzw4jFj1rFtoeW-0
