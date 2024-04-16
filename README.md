@@ -126,4 +126,4 @@ https://www.figma.com/file/ZIEVaD2hnfnHlezbrE01a8/%E5%8D%92%E6%A5%AD%E5%88%B6%E4
 
 ■ ER図
 draw.ioで作成したER図のスクリーンショットをGyazoを使用して提出します。
-[![Image from Gyazo](https://i.gyazo.com/2cf1d089123b97e28b3b16dc7e53673c.png)](https://gyazo.com/2cf1d089123b97e28b3b16dc7e53673c)
+[![Image from Gyazo](https://i.gyazo.com/ea23d5724a4ea91aa12768b3ae602a8a.png)](https://gyazo.com/ea23d5724a4ea91aa12768b3ae602a8a)
