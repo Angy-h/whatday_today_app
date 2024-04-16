@@ -125,5 +125,5 @@ Figmaで作成した画面遷移図のリンクを下記に追記します。
 https://www.figma.com/file/ZIEVaD2hnfnHlezbrE01a8/%E5%8D%92%E6%A5%AD%E5%88%B6%E4%BD%9C%EF%BC%9A%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3?type=design&node-id=0-1&mode=design&t=gLOzw4jFj1rFtoeW-0
 
 ■ ER図
-draw.ioで作成したER図のリンクを下記に追記します。
-https://app.diagrams.net/?libs=general;er#G1OiEbSNYsxOObSk70fog380CUX4pdMEa6#%7B%22pageId%22%3A%22R2lEEEUBdFMjLlhIrx00%22%7D
+draw.ioで作成したER図のスクリーンショットをGyazoを使用して提出します。
+[![Image from Gyazo](https://i.gyazo.com/2cf1d089123b97e28b3b16dc7e53673c.png)](https://gyazo.com/2cf1d089123b97e28b3b16dc7e53673c)
